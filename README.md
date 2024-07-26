@@ -1,0 +1,1 @@
+This code is a Windows kernel-mode mouse driver. It handles mouse input data, processes it through a callback function, and interacts with the system's mouse device objects. The driver creates a device, manages I/O control requests, and simulates mouse input.
